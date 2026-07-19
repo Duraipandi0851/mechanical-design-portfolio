@@ -1,7 +1,7 @@
 # Manual Drum Carding Machine
 
 <p align="center">
-  <img src="Manual_Drum_Carding_Machine_Render.JPG" width="600">
+  <img src="https://raw.githubusercontent.com/Duraipandi0851/mechanical-design-portfolio/main/Manual_Drum_Carding_Machine_Render.JPG" width="650">
 </p>
 
 ## Project Overview
