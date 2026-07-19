@@ -28,7 +28,7 @@ Mechanical Manual Drum Carding Machine designed using SolidWorks. This project i
 
 - 📄 Manual_Drum_Carding_Machine_Isometric.pdf
 - 📄 Manual_Drum_Carding_Machine_BOM.pdf
-- 🖼️ Manual_Drum _Carding_Machine_Render . JPG
+- 🖼️ Manual_Drum_Carding_Machine_Render.JPG
 
 ## Future Improvements
 
