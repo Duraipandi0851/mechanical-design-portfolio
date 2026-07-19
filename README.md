@@ -1,7 +1,7 @@
 # Manual Drum Carding Machine
 
 <p align="center">
-  <img src="Manual_Drum_Carding_Machine_Render.JPG" width="650">
+  <img src="Manual_Drum_Carding_Machine_Render.JPG" width="600">
 </p>
 
 ## Project Overview
