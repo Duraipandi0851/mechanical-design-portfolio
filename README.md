@@ -1,33 +1,43 @@
-# Mechanical Design Portfolio
+# Manual Drum Carding Machine
 
-## About Me
-Mechanical Design Engineer with expertise in SolidWorks, SPM Design, Jig & Fixture Design, Sheet Metal and GD&T.
+<p align="center">
+  <img src="Manual_Drum_Carding_Machine_Render.JPG" width="650">
+</p>
 
-## Skills
-- SolidWorks
-- AutoCAD
-- Machine Design
-- SPM Design
-- Jig & Fixture Design
-- Sheet Metal
-- GD&T
+## Project Overview
 
-## Projects
-- Tumble Jig Design
-- Piercing Tool Design
-- Drill Jig Design
-- Bench Vice Design
-- Manual Roller Machine Design
-- Scissor Jack Design
-- Storage Cabinet Design
-- Machine Base Frame Design
-- Sheet Metal Bracket Design 
+Mechanical Manual Drum Carding Machine designed using SolidWorks. This project includes 3D part modeling, assembly, exploded view, BOM creation, and manufacturing drawings.
 
-## Software
-- SolidWorks
-- AutoCAD
-- Microsoft Excel
+## Technical Specifications
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/duraipandi-design
-- Email: duraipuqazh0851@gmail.com
+- **Material:** Wood & Mild Steel
+- **Software:** SolidWorks 2025
+- **Drawing Standard:** ISO
+- **Assembly Type:** Manual Machine
+
+## Features
+
+- 3D Part Modeling
+- Assembly Design
+- Exploded View
+- Bill of Materials (BOM)
+- 2D Manufacturing Drawings
+- Isometric Drawing
+
+## Files
+
+- 📄 Manual_Drum_Carding_Machine_Isometric.pdf
+- 📄 Manual_Drum_Carding_Machine_BOM.pdf
+- 🖼️ Manual_Drum_Carding_Machine_Render.JPG
+
+## Future Improvements
+
+- Motion Study
+- Manufacturing Drawings
+- Detailed Part Drawings
+- Design Optimization
+
+---
+
+**Designed by:** Durai Pandian  
+**Software:** SolidWorks
